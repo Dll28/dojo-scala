@@ -15,8 +15,6 @@ val otraPersona = new Persona("Juan", None, "Gutiérrez")
 otraPersona.nombreCompleto //Retorna "Pepito Arnulfo Pérez"
 
     }
-    def fact(n:Int):BigInt =
-    if (n==0) 1
-    else n*fact(n-1)      
-    }
+   
+}
 }
